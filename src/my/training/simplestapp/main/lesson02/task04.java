@@ -15,7 +15,7 @@ public class task04 {
 		temp = Math.pow((x1-x2),2)+ Math.pow((y1-y2),2);
 		AB= Math.sqrt(temp);
 		
-		System.out.println("расстояние равен: "+AB);
+		System.out.println("СЂР°СЃСЃС‚РѕСЏРЅРёРµ СЂР°РІРµРЅ: "+AB);
 	}
 
 }

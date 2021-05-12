@@ -19,7 +19,7 @@ public class task08 {
     		{ sts=true;}
     	}
         
-    	System.out.println("находиться точка в периметре:"+sts);
+    	System.out.println("РЅР°С…РѕРґРёС‚СЊСЃСЏ С‚РѕС‡РєР° РІ РїРµСЂРёРјРµС‚СЂРµ:"+sts);
     	
     }
 }

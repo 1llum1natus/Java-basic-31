@@ -16,7 +16,7 @@ public class task03 {
 	    ss= t - (hh*3600 + mm*60);//sec
 	    
 	    
-	    System.out.println(hh+"ч "+mm+"мин "+ss+"c."); //res
+	    System.out.println(hh+"С‡ "+mm+"РјРёРЅ "+ss+"c."); //res
 	}
 
 }

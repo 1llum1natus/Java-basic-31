@@ -16,12 +16,12 @@ public class task05 {
 			
 		if (temp==0.0) {
 			
-			System.out.println("Знаменатель равень нулю!!");
+			System.out.println("Р—РЅР°РјРµРЅР°С‚РµР»СЊ СЂР°РІРµРЅСЊ РЅСѓР»СЋ!!");
 			return;
 		}
 		
 		res=( (Math.sin(x)+ Math.cos(y)) / temp ) * Math.tan(x*y);
 		
-		System.out.println("результат:"+res);
+		System.out.println("СЂРµР·СѓР»СЊС‚Р°С‚:"+res);
 	}
 }

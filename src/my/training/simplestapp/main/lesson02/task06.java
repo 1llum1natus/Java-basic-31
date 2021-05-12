@@ -18,9 +18,9 @@ public class task06 {
         
         r2=(int)((r-(int)r)*10);
 		
-        System.out.println("число от деления m/n:"+r);
-	    System.out.println("младшая целой части:"+r1);
-        System.out.println("старшая часть дроби:"+r2);
+        System.out.println("С‡РёСЃР»Рѕ РѕС‚ РґРµР»РµРЅРёСЏ m/n:"+r);
+	    System.out.println("РјР»Р°РґС€Р°СЏ С†РµР»РѕР№ С‡Р°СЃС‚Рё:"+r1);
+        System.out.println("СЃС‚Р°СЂС€Р°СЏ С‡Р°СЃС‚СЊ РґСЂРѕР±Рё:"+r2);
 	}
 
 }

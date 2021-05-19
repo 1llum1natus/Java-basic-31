@@ -2,7 +2,7 @@ package my.training.simplestapp.main;
 
 public class Main {
 	public static void main(String[] args) {
-	
+	//
    // 2 и 3		
 	  String name="John";
 	  String addr="USA";

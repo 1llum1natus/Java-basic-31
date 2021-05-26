@@ -1,6 +1,6 @@
 package my.training.simplestapp.main.lesson02;
 
-public class task01 {
+public class task01 {// code convention - имя классас Большой буквы
 	
 	public static void main(String[] args) {
 		

@@ -15,5 +15,5 @@ public class task09 {
 		}
 		
 	  System.out.println("Fx="+f);
-	}
+	}// Молодец
 }
